@@ -1,6 +1,6 @@
 # Security Project
 
-#### This repository contains all the notes and sample codes used for my presentation on the Security class for International Hellenic University.
+#### This repository contains all the notes and sample codes used in my presentation on the Security class for International Hellenic University.
 
 ##### This repo will be updated as the project continues. The goal of this project is to create a FUD payload if possible by leveraging certain antivirus and firewall bypassing techniques and see how efficient they are.
 
